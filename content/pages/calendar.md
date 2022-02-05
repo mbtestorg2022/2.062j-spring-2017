@@ -4,20 +4,324 @@ title: Calendar
 uid: 903c642d-3960-64c7-f441-b06acfd5684e
 ---
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | {{< h 3 >}}Sample Wave Problems{{< /h >}} {{< br >}}{{< br >}} *   Transverse Vibration of a Taut String{{< br >}}*   Longitudinal Vibration of an Elastic Rod{{< br >}}*   Traffic Flow on a Freeway {{< br >}}{{< br >}}  | Problem set 1 out |
-| 2 | {{< h 3 >}}Sample Wave Problems (cont.){{< /h >}} {{< br >}}{{< br >}} *   Wave Propagation in Arteries{{< br >}}*   Shallow Water Waves and Linearization{{< br >}}*   Sound in Fluids{{< br >}}*   Flexural Waves in a Beam on an Elastic Foundation {{< br >}}{{< br >}}  | Problem set 1 due |
-| 3 | {{< h 3 >}}One Dimensional Waves{{< /h >}} {{< br >}}{{< br >}} *   General Solution to Wave Equation{{< br >}}*   Branching of Arteries{{< br >}}*   Waves in an Infinite Domain due to Initial Disturbances{{< br >}}*   Reflection from the Fixed End of a String{{< br >}}*   Forced Waves in an Infinite Domain {{< br >}}{{< br >}}  | Problem set 2 out |
-| 4 | {{< h 3 >}}One Dimensional Waves (cont.){{< /h >}} {{< br >}}{{< br >}} *   String Embedded in an Elastic Surrounding{{< br >}}*   Dispersion from a Localized Initial Disturbance{{< br >}}*   Scattering of Sinusoidal Waves{{< br >}}*   General Identities in Scattering by Arbitrary in Homogeneities{{< br >}}*   Refraction in a Slowly Varying Medium {{< br >}}{{< br >}}  | Problem set 2 due |
-| 5 | {{< h 3 >}}Two Dimensional Waves{{< /h >}} {{< br >}}{{< br >}} *   Reflection and Transmission of Sound at an Interface{{< br >}}*   Equations for Elastic Waves{{< br >}}*   Free Waves in Infinite Space{{< br >}}*   Elastic Waves in a Plane {{< br >}}{{< br >}}  | Problem set 3 out |
-| 6 | {{< h 3 >}}Two Dimensional Waves (cont.){{< /h >}} {{< br >}}{{< br >}} *   Reflection of Elastic Waves from a Plane Boundary{{< br >}}*   Scattering of Monochromatic SH Waves{{< br >}}*   Diffraction of SH Wave by a Long Crack{{< br >}}*   Rayleigh Surface Waves {{< br >}}{{< br >}}  | Problem set 3 due |
-| 7 | {{< h 3 >}}Two Dimensional Waves (cont.){{< /h >}} {{< br >}}{{< br >}} *   Elastic Waves due to a Load Traveling on the Ground Surface{{< br >}}*   Partial Wave Expansion{{< br >}}*   Approximate Evaluation of an Integral {{< br >}}{{< br >}}  | Mid-term quiz out |
-| 8 | {{< h 3 >}}Waves in Water{{< /h >}} {{< br >}}{{< br >}} *   Governing Equations for Waves on the Sea Surface{{< br >}}*   Progressive Waves on a Sea of Constant Depth{{< br >}}*   Wave Resistance of a Two-dimensional Obstacle {{< br >}}{{< br >}}  | Mid-term quiz due |
-| 9 | {{< h 3 >}}Waves in Water (cont.){{< /h >}} {{< br >}}{{< br >}} *   Narrow-banded Dispersive Waves in General{{< br >}}*   Radiation of Surface Waves Forced by an Oscillating Pressure{{< br >}}*   The Kelvin Pattern of Ship Wave {{< br >}}{{< br >}}  | Problem set 4 out |
-| 10 | {{< h 3 >}}Waves in Water (cont.){{< /h >}} {{< br >}}{{< br >}} *   Basic Theory for Two-dimensional Internal Waves in a Stratified Fluid{{< br >}}*   Internal Waves Modes for Finite N{{< br >}}*   Internal Waves in a Vertically Unbounded Fluid{{< br >}}*   Reflection of Internal Waves at Boundary {{< br >}}{{< br >}}  | Problem set 4 due |
-| 11 | {{< h 3 >}}Wave Localization{{< /h >}} {{< br >}}{{< br >}} *   Wave Localization in a Random Medium{{< br >}}*   References {{< br >}}{{< br >}}  | Problem set 5 out |
-| 12 | {{< h 3 >}}Forced Dispersive Waves Along a Narrow Channel{{< /h >}} {{< br >}}{{< br >}} *   Free Wave Propagation Along a Narrow Waveguide {{< br >}}{{< br >}}  | Problem set 5 due |
-| 13 | {{< h 3 >}}Forced Dispersive Waves Along a Narrow Channel (cont.){{< /h >}} {{< br >}}{{< br >}} *   Forced Wave Propagation Along a Narrow Waveguide{{< br >}}*   Initial Boundary Value Problem {{< br >}}{{< br >}}  | Final quiz out |
-| 14 | {{< h 3 >}}Internal Waves in a Stratified Fluid{{< /h >}} {{< br >}}{{< br >}} *   Introduction{{< br >}}*   Governing Equations for Incompressible Density-stratified Fluid{{< br >}}*   The Buoyancy Frequency (Brunt-Vaisala Frequency) {{< br >}}{{< br >}}  | Final quiz due |
-| 15 | {{< h 3 >}}Internal Waves in a Stratified Fluid (cont.){{< /h >}} {{< br >}}{{< br >}} *   Internal Gravity Waves in Unbounded Stratified Fluid{{< br >}}*   Waveguide Behavior {{< br >}}{{< br >}}  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Sample Wave Problems
+
+*   Transverse Vibration of a Taut String
+*   Longitudinal Vibration of an Elastic Rod
+*   Traffic Flow on a Freeway
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Sample Wave Problems (cont.)
+
+*   Wave Propagation in Arteries
+*   Shallow Water Waves and Linearization
+*   Sound in Fluids
+*   Flexural Waves in a Beam on an Elastic Foundation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### One Dimensional Waves
+
+*   General Solution to Wave Equation
+*   Branching of Arteries
+*   Waves in an Infinite Domain due to Initial Disturbances
+*   Reflection from the Fixed End of a String
+*   Forced Waves in an Infinite Domain
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### One Dimensional Waves (cont.)
+
+*   String Embedded in an Elastic Surrounding
+*   Dispersion from a Localized Initial Disturbance
+*   Scattering of Sinusoidal Waves
+*   General Identities in Scattering by Arbitrary in Homogeneities
+*   Refraction in a Slowly Varying Medium
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Two Dimensional Waves
+
+*   Reflection and Transmission of Sound at an Interface
+*   Equations for Elastic Waves
+*   Free Waves in Infinite Space
+*   Elastic Waves in a Plane
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Two Dimensional Waves (cont.)
+
+*   Reflection of Elastic Waves from a Plane Boundary
+*   Scattering of Monochromatic SH Waves
+*   Diffraction of SH Wave by a Long Crack
+*   Rayleigh Surface Waves
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Two Dimensional Waves (cont.)
+
+*   Elastic Waves due to a Load Traveling on the Ground Surface
+*   Partial Wave Expansion
+*   Approximate Evaluation of an Integral
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Mid-term quiz out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Waves in Water
+
+*   Governing Equations for Waves on the Sea Surface
+*   Progressive Waves on a Sea of Constant Depth
+*   Wave Resistance of a Two-dimensional Obstacle
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Mid-term quiz due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Waves in Water (cont.)
+
+*   Narrow-banded Dispersive Waves in General
+*   Radiation of Surface Waves Forced by an Oscillating Pressure
+*   The Kelvin Pattern of Ship Wave
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Waves in Water (cont.)
+
+*   Basic Theory for Two-dimensional Internal Waves in a Stratified Fluid
+*   Internal Waves Modes for Finite N
+*   Internal Waves in a Vertically Unbounded Fluid
+*   Reflection of Internal Waves at Boundary
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Wave Localization
+
+*   Wave Localization in a Random Medium
+*   References
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Forced Dispersive Waves Along a Narrow Channel
+
+*   Free Wave Propagation Along a Narrow Waveguide
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Forced Dispersive Waves Along a Narrow Channel (cont.)
+
+*   Forced Wave Propagation Along a Narrow Waveguide
+*   Initial Boundary Value Problem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final quiz out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Internal Waves in a Stratified Fluid
+
+*   Introduction
+*   Governing Equations for Incompressible Density-stratified Fluid
+*   The Buoyancy Frequency (Brunt-Vaisala Frequency)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final quiz due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Internal Waves in a Stratified Fluid (cont.)
+
+*   Internal Gravity Waves in Unbounded Stratified Fluid
+*   Waveguide Behavior
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

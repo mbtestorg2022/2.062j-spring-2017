@@ -70,8 +70,45 @@ There are two quizzes: a mid-term quiz and a final quiz. Both quizzes are take-h
 Grading Policy
 --------------
 
-| ACTIVITIES | GRADE |
-| --- | --- |
-| Homework | 1/3 |
-| Midterm Quiz | 1/3 |
-| Final Quiz | 1/3
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+GRADE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
