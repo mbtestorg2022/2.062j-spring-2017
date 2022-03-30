@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-_[2.003J Dynamics and Control I](/courses/2-003j-dynamics-and-control-i-fall-2007/)_ and _[18.075 Advanced Calculus for Engineers](/courses/18-075-advanced-calculus-for-engineers-fall-2004/)_
+_[2.003J Dynamics and Control I](/courses/2-003j-dynamics-and-control-i-fall-2007)_ and _[18.075 Advanced Calculus for Engineers](/courses/18-075-advanced-calculus-for-engineers-fall-2004)_
 
 Course Description
 ------------------
